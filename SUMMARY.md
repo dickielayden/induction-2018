@@ -1,0 +1,11 @@
+# Summary
+* [How to use this guide](using.md)
+* [Survival Tip 1 - People to know](people.md)
+* [Survival Tip 2 - Get involved](you.md)
+* [Survival Tip 3 - Engage](attendance.md)
+* [Survival Tip 4 - Assessment](assessment.md)
+* [Survival Tip 5 - Using technology](technology.md)
+* [Survival Tip 6 - Library services](library.md)
+* [Everything else!](support.md)
+* [Test your survival knowledge](quiz.md)
+* [Survival Checklist](checklist.md)

@@ -1,0 +1,39 @@
+{
+ "structure": {
+        "readme": "introduction.md"
+    },
+
+"gitbook": "2.x.x",
+
+
+"links": {
+     "sidebar": {
+            "Faculty of Health Studies": "http://www.bradford.ac.uk/health/"
+        }
+     },
+    
+
+"plugins": 
+	["quiz"]
+	,	
+
+"pluginsConfig": {
+    "quiz": {
+        "labels": {
+            "showCorrect"       : "Show Answer",
+            "check"             : "Check",
+            "showExplanation"   : "Show Explanation",
+            "explanationHeader" : "Explanation"         },
+        "text": {
+            "noChosen"    : "",  
+            "incomplete"  : ""          
+        },
+        "buttons": {
+            "showCorrect"       : true, 
+            "showExplanation"   : true  
+        }
+    }
+}
+}
+
+
